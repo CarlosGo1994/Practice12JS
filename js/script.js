@@ -23,5 +23,5 @@ do
 
 }while(number >= 0)
 
-alert("La suma de todos lo numero es: "+ sum);
-alert("La media es: " + (sum/counter));
+alert("The sum of all the numbers is: "+ sum);
+alert("The averge is: " + (sum/counter));
